@@ -21,10 +21,10 @@ const CardsGrid = () => {
       path: "https://braa8.github.io/CSS-Animation/"
     },
     {
-      title: " Simple Portfolio ",
-      description: " portfolio with simple designes , made by next.js ",
-      image: "/images/React.png",
-      path: "https://portfolio-seven-neon-80.vercel.app"
+      title: " Newspaper ",
+      description: " Modern newspaper , created by Next.js ",
+      image: "/images/logo.png",
+      path: "https://seen-newspaper.vercel.app/"
     },
   ];
 
