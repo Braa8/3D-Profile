@@ -1,3 +1,4 @@
+import { image } from "framer-motion/client";
 import React, { useState } from "react";
 
 const CardsGrid = () => {
@@ -26,6 +27,12 @@ const CardsGrid = () => {
       image: "/images/logo.png",
       path: "https://seen-newspaper.vercel.app/"
     },
+    {
+      title: " DME Company " ,
+      description:" small company for events planning and decoreation " ,
+      image:"/images/DME Logo.png",
+      path: "https://danat-almuhyt-events.vercel.app"
+    }
   ];
 
   const [hoveredCardIndex, setHoveredCardIndex] = useState(null);
