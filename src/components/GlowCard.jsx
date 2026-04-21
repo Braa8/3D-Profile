@@ -32,6 +32,12 @@ const CardsGrid = () => {
       description:" small company for events planning and decoreation " ,
       image:"/images/DME Logo.png",
       path: "https://danat-almuhyt-events.vercel.app"
+    },
+    {
+      title: " Taleb-Plus",
+      description: " All in one - students services",
+      image: "/images/MainLogo.jpeg",
+      path: "https://taleb-plus.vercel.app/"
     }
   ];
 
